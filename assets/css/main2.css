@@ -1,0 +1,32 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+#caja{
+	background: yellow;
+	display: block;
+	width: 240px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-top: 0.1%;
+	padding-top: 0.1%;
+}
+
+#caja1{
+	background: #DB0E4E;
+	display: block;
+	width: 240px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-top: 0.1%;
+	}
+
+#caja2{
+	background: yellow;
+	display: block;
+	width: 240px;
+	padding-bottom: 20px;
+	padding-top: 0.1%;
+	padding-left: 10px;
+	}
+
