@@ -1,0 +1,43 @@
+#caja{
+	background-color: green;
+	overflow: auto;
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	}
+
+#caja1{
+	background-color: green;
+	overflow: auto;
+	width: 356px;
+	height: 100px;
+	border: 2px solid black;
+	}
+
+#caja2{
+	background-color: green;
+	overflow: auto;
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	display: inline-block;
+	margin-right: 10px;
+	}
+
+#caja3{
+	background-color: green;
+	overflow: auto;
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	display: inline-block;
+	}
+
+#caja4{
+	background-color: green;
+	overflow: auto;
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	}
+
